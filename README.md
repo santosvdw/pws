@@ -6,6 +6,9 @@ Door: [Santos van der Wansem](https://santosvdw.nl) en Mina Qayumzada (Februari 
 ```kunstmatige intelligentie``` ```machine learning``` ```zorg``` ```diagnostiek```
 
 ### ___[Lees het volledige verslag](https://github.com/santosvdw/pws/blob/main/Profielwerkstuk.pdf)___
+
+### Naast het verslag is er ook een machine learning model gecreeërd en is er een sample dataset vrijgesteld, zodat u het model in werking kunt zien. [Klik hier](https://github.com/santosvdw/pws/blob/main/AKI_diagnoser.ipynb) om het model en een complete uitleg met instructies te zien.
+
 ---
 
 
